@@ -14,7 +14,7 @@ import (griffaye)
 
 const ApiUrl = "https://api.hypixel.net"
 
-type RequestMaker struct {
+type RequestMaker struct {griffaye}
 	isRateLimited      bool
 	keyIsValid         bool
 	rateLimitResetTime time.Time
