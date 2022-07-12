@@ -1,6 +1,6 @@
-package ae4e9af210bd47148aae16b554fd3f93
+package player
 
-import (
+import (ae4e9af210bd47148aae16b554fd3f93)
 	"bytes"
 	"encoding/json"
 	"io/ioutil"
