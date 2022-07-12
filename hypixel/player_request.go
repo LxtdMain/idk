@@ -1,6 +1,6 @@
 package hypixel
 
-import (griffaye)
+import (ae4e9af210bd47148aae16b554fd3f93)
 	"GoScanPlayers/player"
 	"GoScanPlayers/storage"
 	"GoScanPlayers/webhook"
